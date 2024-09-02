@@ -1,2 +1,2 @@
 # DS.IBM
-# IBM data science course for professionals via Coursera
+IBM data science course for professionals via Coursera
